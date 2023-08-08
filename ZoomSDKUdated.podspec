@@ -1,12 +1,12 @@
 
 Pod::Spec.new do |s|
   s.name         = "ZoomSDKUdated"
-  s.version      = "5.14.11.8690"
+  s.version      = "5.14.11.8691"
   s.summary      = "Pod for zoom-sdk-ios"
   s.description  = <<-DESC
                   Pod for zoom-sdk-ios.
                    DESC
-  s.homepage     = "https://github.com/wstuckmeyer/zoom-sdk-pods-updated"
+  s.homepage     = "https://github.com/kaushik-orangeapp/zoom-sdk-pods-updated"
   s.author       = { "author" => "zvsx001@gmail.com" }
   s.platform     = :ios, "11.0"
 
